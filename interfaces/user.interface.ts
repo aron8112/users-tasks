@@ -6,5 +6,5 @@ export interface IUser {
   username: string;
   password: string;
   role: string;
-  projectsInclude: string;
+  //projectsInclude: string;
 }
